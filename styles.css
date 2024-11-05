@@ -9,15 +9,10 @@
             text-align: center;
             font-size: 2em;
             font-weight: bold;
-
-        .article {
-            margin-bottom: 40px;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .article img {
-            width: 50%;
-            height: 100px;
+		}
+         img {
+            width: 200px;
+            height: 200px;
             object-fit: cover;
         }
         .article h2 {
